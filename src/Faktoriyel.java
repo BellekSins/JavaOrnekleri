@@ -1,19 +1,28 @@
+// Scanner'ı çağırıyoruz.
 import java.util.Scanner;
 
 public class Faktoriyel {
     public static void main(String[] args) {
+
+        // 0! = 1 olduğu için sonucu bire eşitliyoruz.
         int sonuc = 1;
+
+        // Scanner'ı çağırıyoruz.
         Scanner scan = new Scanner(System.in);
-        System.out.print("----------------------------- \n Faktöriyel Hesaplama\n----------------------------- \n Bir Sayı Giriniz : ");
+
+        // Kullanıcıdan sayı girmesini istiyoruz.
+        System.out.print("----------------------------- \nFaktöriyel Hesaplama\n----------------------------- \nBir Sayı Giriniz : ");
         int x = scan.nextInt();
+
+        // Girilen sayinin faköriyelini alıyoruz.
         for (int i = 1 ; i <= x ; i ++){
             sonuc = sonuc * i;
         }
-        System.out.print("-----------------------------\n"+ x +"! = "+ sonuc);
+        // Sonucu yazdırıyoruz.
+        System.out.println();
+        System.out.println( x + "! = " + sonuc);
 
-
-
-
+        System.out.println("**Program bitmistir**");
 
     }
 }
