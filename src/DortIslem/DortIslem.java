@@ -1,6 +1,6 @@
-package Matematik;
+package DortIslem;
 
-public class matematik {
+public class DortIslem {
     static void toplama(int x , int y , int sonuc){
         sonuc = x + y;
         System.out.println("Girilen iki sayının toplamı : "+sonuc);

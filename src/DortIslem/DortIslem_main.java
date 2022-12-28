@@ -1,8 +1,8 @@
-package Matematik;
+package DortIslem;
 
 import java.util.Scanner;
 
-public class matematik_main {
+public class DortIslem_main {
 
     public static void main(String[] args) {
 
@@ -18,10 +18,10 @@ public class matematik_main {
 
         System.out.println("-----------------------------");
 
-        matematik.toplama(x,y,0);
-        matematik.cikarma(x,y,0);
-        matematik.carpma(x,y,0);
-        matematik.bolme(x,y,0);
+        DortIslem.toplama(x,y,0);
+        DortIslem.cikarma(x,y,0);
+        DortIslem.carpma(x,y,0);
+        DortIslem.bolme(x,y,0);
 
         System.out.println("-----------------------------");
 
