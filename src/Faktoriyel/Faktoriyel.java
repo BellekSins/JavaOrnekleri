@@ -9,7 +9,7 @@ public class Faktoriyel {
         // 0! = 1 olduğu için sonucu bire eşitliyoruz.
         int sonuc = 1;
 
-        // Scanner'ı scan
+        // Scanner'ı scan olarak tanımlıyoruz.
         Scanner scan = new Scanner(System.in);
 
         // Kullanıcıdan sayı girmesini istiyoruz.

@@ -33,7 +33,7 @@
 }]]></component>
   <component name="RunManager">
     <configuration name="Faktoriyel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Faktoriyel" />
+      <option name="MAIN_CLASS_NAME" value="Faktoriyel.Faktoriyel" />
       <module name="JavaOrnekleri" />
       <method v="2">
         <option name="Make" enabled="true" />
