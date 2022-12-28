@@ -1,3 +1,5 @@
+package Faktoriyel;
+
 // Scanner'ı çağırıyoruz.
 import java.util.Scanner;
 
