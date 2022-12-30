@@ -39,7 +39,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CemberYarıCap">
+  <component name="RunManager" selected="Application.CemberYariCap">
     <configuration name="Atm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ATM.Atm" />
       <module name="JavaOrnekleri" />
@@ -53,8 +53,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CemberYarıCap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CemberYarıCap" />
+    <configuration name="CemberYariCap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CemberYariCap" />
       <module name="JavaOrnekleri" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,7 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CemberYarıCap" />
+        <item itemvalue="Application.CemberYariCap" />
         <item itemvalue="Application.Atm" />
         <item itemvalue="Application.DortIslem_main" />
         <item itemvalue="Application.Faktoriyel" />

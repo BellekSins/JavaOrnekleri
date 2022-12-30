@@ -1,3 +1,5 @@
+package CemberYariCap;
+
 import java.util.Scanner;
 
 public class CemberYariCap {
