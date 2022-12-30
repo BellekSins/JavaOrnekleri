@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbafaa49-9ee6-4de7-b91c-8adb11f7913b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ATM/Atm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CemberYarıCap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Atm">
+  <component name="RunManager" selected="Application.CemberYarıCap">
     <configuration name="Atm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ATM.Atm" />
       <module name="JavaOrnekleri" />
@@ -49,6 +49,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CemberYarıCap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CemberYarıCap" />
+      <module name="JavaOrnekleri" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -75,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CemberYarıCap" />
         <item itemvalue="Application.Atm" />
         <item itemvalue="Application.DortIslem_main" />
         <item itemvalue="Application.Faktoriyel" />
