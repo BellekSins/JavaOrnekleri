@@ -12,8 +12,9 @@ public class OzelUcgenler {
 
         int x ,z , y;
         int i = 0;
+        int a = 5;
 
-        while(i < 5){
+        while(i < a){
 
         x = random.nextInt(1,30);
         y = random.nextInt(1,30);
@@ -26,7 +27,8 @@ public class OzelUcgenler {
             }
 
             i++;
-            if (i == 5) {
+
+            if (i == a) {
                 System.out.println("Devam edeyim mi (y/n)");
                 String sonuc = scan.nextLine();
                 if (Objects.equals(sonuc, "y")) {
